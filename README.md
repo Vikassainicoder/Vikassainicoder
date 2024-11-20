@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋 I'm Vikas Saini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/28e6714a-6069-4e4b-8e7a-d6ec61b6fc24)
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/28e6714a-6069-4e4b-8e7a-d6ec61b6fc24)">
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikassainicoder&label=Profile%20views&color=0e75b6&style=flat" alt="vikassainicoder" /> </p>
